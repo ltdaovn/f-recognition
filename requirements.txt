@@ -1,5 +1,5 @@
 mtcnn
 flask
 flask_restful
-tensorflow
+tensorflow-cpu
 pillow
