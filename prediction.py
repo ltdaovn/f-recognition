@@ -124,4 +124,5 @@ def predict(fname):
 
 if __name__ == '__main__':
        # print(predict("data/test/Tran Canh Xuan B1706970.jpg"))
-       print(predict("data/test/Dao Minh Khoa.png"))
+       #print(predict("data/test/Dao Minh Khoa.png"))
+       print(predict("data/test/tcxuan.jpg"))
