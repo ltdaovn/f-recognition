@@ -3,5 +3,6 @@ Cython
 flask
 flask_restful
 tensorflow-cpu
+opencv-python-headless
 pillow
 scikit-learn==0.22.2.post1
