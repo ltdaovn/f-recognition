@@ -4,5 +4,6 @@ flask
 flask_restful
 tensorflow-cpu
 opencv-python-headless
+gunicorn
 pillow
 scikit-learn==0.22.2.post1
